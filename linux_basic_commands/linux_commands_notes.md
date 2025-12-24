@@ -17,7 +17,8 @@
 - nano myfile : edit the file
 - rm : remove file
 - rmdir : remove directory
-
+- -r : recursive
+- -f : force
 
 # Markdown/md format
 # Big Title
