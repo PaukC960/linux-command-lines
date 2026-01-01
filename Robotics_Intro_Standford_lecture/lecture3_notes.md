@@ -18,7 +18,7 @@ Euler angles & fixed angles
 	- orientation becomes unstable 
   - Humans prefer Euler angles for intuition, while robots convert them to rotation matrics or quaternions for computation. 
     ![euler_angles](Lecture3_pics/euler_angles.png)
-    ![z-y-x_euler_angles](Lecture3_pics/z-y-x_euler_angles.png)
+    ![z-y-x_euler_angles](Lecture3_pics/z-y-x_euler_angles_matrix.png)
 
 
 2. Fixed vs Euler Angles
