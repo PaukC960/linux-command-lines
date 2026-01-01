@@ -42,6 +42,6 @@ Euler angles & fixed angles
   - Robots need fixed angles to configure its position to a global fixed point.
 
 ## Confusing parts
-	- Formula derivations
-	- Applications to robotic commands
+  - Formula derivations
+  - Applications to robotic commands
 
