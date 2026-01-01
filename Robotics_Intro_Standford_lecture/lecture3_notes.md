@@ -17,6 +17,9 @@ Euler angles & fixed angles
 	- one DOF is lost
 	- orientation becomes unstable 
   - Humans prefer Euler angles for intuition, while robots convert them to rotation matrics or quaternions for computation. 
+    ![euler_angles](Lecture3_pics/euler_angles.png)
+    ![z-y-x_euler_angles](Lecture3_pics/z-y-x_euler_angles.png)
+
 
 2. Fixed vs Euler Angles
   - Euler angles rotate around the current, moving axes - the axes move with the object after each rotation.
@@ -31,6 +34,8 @@ Euler angles & fixed angles
 3. Key relation between Fixed and Euler angles
   - Z-Y-X Euler rotation is mathematically equivalent to an X-Y-Z fixed rotation (due to transpose of 3x3 matrices)
   - Rotating about moving axes in one order = rotating about fixed axes in reverse order
+    ![inverse_kinetmatics_matrix](Lecture3_pics/inverse_kinetmatics_matrix.png)
+    ![fixed_vs_euler_angles](Lecture3_pics/fixed_vs_euler_angles.png)   
 
 ## Connection to Robotics
   - Euler angles are intuitive for humans to change the orientation of robotic joints
