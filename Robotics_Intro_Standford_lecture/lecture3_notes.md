@@ -38,8 +38,8 @@ Euler angles & fixed angles
     ![fixed_vs_euler_angles](Lecture3_pics/fixed_vs_euler_angles.png)   
 
 4. Must-watch Videos
- - [![Transformation Matrices Simply Explained](https://www.youtube.com/watch?v=FvgGSgvB2I0.jpg)](https://www.youtube.com/watch?v=FvgGSgvB2I0)
- - [![Forward Kinematics Simply Explained](https://www.youtube.com/watch?v=_8T7RjXL07M.jpg)](https://www.youtube.com/watch?v=_8T7RjXL07M)
+ - [![Transformation Matrices Simply Explained](https://img.youtube.com/vi/FvgGSgvB2I0/0.jpg)](https://www.youtube.com/watch?v=FvgGSgvB2I0)
+ - [![Forward Kinematics Simply Explained](https://img.youtube.com/vi/_8T7RjXL07M/0.jpg)](https://www.youtube.com/watch?v=_8T7RjXL07M)
 
 ## Connection to Robotics
   - Euler angles are intuitive for humans to change the orientation of robotic joints
