@@ -31,6 +31,8 @@ Euler angles & fixed angles
   - Fixed angles 
 	- Rotate 90° around Z 
 	- Rotate 90° around Y -> rotate on the original position (world position) o  Y-axis
+  - ![why_rotation_order_matters](Lecture3_pics/why_rotation_order_matters.png)
+
 3. Key relation between Fixed and Euler angles
   - Z-Y-X Euler rotation is mathematically equivalent to an X-Y-Z fixed rotation (due to transpose of 3x3 matrices)
   - Rotating about moving axes in one order = rotating about fixed axes in reverse order
@@ -40,6 +42,11 @@ Euler angles & fixed angles
 4. Must-watch Videos
  - [![Transformation Matrices Simply Explained](https://img.youtube.com/vi/FvgGSgvB2I0/0.jpg)](https://www.youtube.com/watch?v=FvgGSgvB2I0)
  - [![Forward Kinematics Simply Explained](https://img.youtube.com/vi/_8T7RjXL07M/0.jpg)](https://www.youtube.com/watch?v=_8T7RjXL07M)
+
+5. What the video explains
+ - uses 2D (x and y axes) to explain the formula of rotation matrix
+ - transforms the 2x2 matrix to 3x3 homogenous matrix by adding the translation 2x1 matrix
+ - forward kinematics is the compound/ multiplication of homogenous matrices to find the configuration of end-effector
 
 ## Connection to Robotics
   - Euler angles are intuitive for humans to change the orientation of robotic joints
