@@ -9,4 +9,6 @@
 - ^A : Skip to front of line
 - ^E : Skip to end of line
 - ![name_to_give_the_image](path) : embedding an image 
+- grep "word_to_search" file_name : look for all occurances of a word 
+ - eg. grep "Joint" day4_robot_state.cpp
 
